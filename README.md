@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/vikram-vikky2002/vikram-vikky2002/blob/46c9c9eb5296bf20a3f3f03fa3933a7a6922490e/mobile-app.gif)](www.linkedin.com/in/vikramramesh2002)
 <h1 align="center">Hi 👋, I'm Vikram K R</h1>
-<h3 align="center">A passionate Full-Stack Android developer from India</h3>
+<h3 align="center">A passionate Full-Stack Mobile App developer from India 📱 </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/vikram-vikky2002/vikram-vikky2002/blob/46c9c9eb5296bf20a3f3f03fa3933a7a6922490e/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-vikky2002&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-vikky2002" /> </p>

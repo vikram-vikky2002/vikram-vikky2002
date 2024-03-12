@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/vikram-vikky2002/vikram-vikky2002/blob/46c9c9eb5296bf20a3f3f03fa3933a7a6922490e/mobile-app.gif)](www.linkedin.com/in/vikramramesh2002)
 <h1 align="center">Hi 👋, I'm Vikram K R</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=900&size=23&duration=1000&pause=500&color=0A1B69&random=false&width=435&lines=Mobile+App+Developer;Web+Developer;UI+UX+Designer)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Full-Stack Mobile App developer from India 📱 </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/vikram-vikky2002/vikram-vikky2002/blob/46c9c9eb5296bf20a3f3f03fa3933a7a6922490e/fcf7fd0c619bb87706533079240915f3.gif">
 
